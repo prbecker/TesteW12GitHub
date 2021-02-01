@@ -1,0 +1,5 @@
+{"Id":0,"Description":"Um sistema de chamados em Java feito como trabalho final da disciplina de Desenvolvimento de Sistemas Orientados a Objetos I","Language":"Java","UpdateLast":"2020-03-24T03:20:07-03:00","Owner":"MayconGesser","Name":"Projeto_Faculdade_Java"}
+{"Id":0,"Description":"sistema para atendimento de chamados por filas","Language":"PHP","UpdateLast":"2021-01-14T16:44:51-03:00","Owner":"uspdev","Name":"chamados"}
+{"Id":0,"Description":"Sistema em (PHP, Bootstrap, Javascript) para empresas e afins.. - Para realizar chamados de suporte relacionado a manutenção de infraestrutura/equipamentos de informática.","Language":"PHP","UpdateLast":"2020-04-17T02:09:02-03:00","Owner":"F-Brito","Name":"System-Help-Desk"}
+{"Id":0,"Description":"Sistema de abertura de chamados (Login, abertura de chamado e consulta de chamados abertos)","Language":"PHP","UpdateLast":"2021-01-30T09:25:01-03:00","Owner":"zTico","Name":"SistemaHelpdesk-hardcode-"}
+{"Id":0,"Description":"","Language":"Java","UpdateLast":"2019-07-06T23:25:19-03:00","Owner":"nickapires","Name":"SistemaDeChamados"}
